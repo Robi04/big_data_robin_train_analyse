@@ -1,0 +1,20 @@
+Epoch 1: 100%|██████████| 62/62 [00:11<00:00,  5.41batch/s, loss=1.1]  
+Epoch 1 completed: Avg. Loss: 1.0437
+Epoch 2: 100%|██████████| 62/62 [00:11<00:00,  5.48batch/s, loss=1]    
+Epoch 2 completed: Avg. Loss: 1.0436
+Epoch 3: 100%|██████████| 62/62 [00:11<00:00,  5.55batch/s, loss=1.07] 
+Epoch 3 completed: Avg. Loss: 1.0440
+Epoch 4: 100%|██████████| 62/62 [00:11<00:00,  5.55batch/s, loss=0.966]
+Epoch 4 completed: Avg. Loss: 1.0432
+Epoch 5: 100%|██████████| 62/62 [00:11<00:00,  5.51batch/s, loss=0.968]
+Epoch 5 completed: Avg. Loss: 1.0429
+Epoch 6: 100%|██████████| 62/62 [00:11<00:00,  5.47batch/s, loss=0.957]
+Epoch 6 completed: Avg. Loss: 1.0434
+Epoch 7: 100%|██████████| 62/62 [00:11<00:00,  5.50batch/s, loss=1.11] 
+Epoch 7 completed: Avg. Loss: 1.0444
+Epoch 8: 100%|██████████| 62/62 [00:11<00:00,  5.50batch/s, loss=1.15] 
+Epoch 8 completed: Avg. Loss: 1.0440
+Epoch 9: 100%|██████████| 62/62 [00:11<00:00,  5.56batch/s, loss=1.13] 
+Epoch 9 completed: Avg. Loss: 1.0437
+Epoch 10: 100%|██████████| 62/62 [00:11<00:00,  5.54batch/s, loss=0.994]Epoch 10 completed: Avg. Loss: 1.0437
+
